@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # Power BI Project: Sales & Profit Analysis Dashboard
 
 ## 🔧 Project Overview
